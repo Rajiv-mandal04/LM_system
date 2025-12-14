@@ -11,6 +11,7 @@ Student Dashboard pannel:
 ![image alt](https://github.com/Rajiv-mandal04/LM_system/blob/main/Screenshot%202025-09-09%20150423.png)
 ![image alt](https://github.com/Rajiv-mandal04/LM_system/blob/main/Screenshot%202025-09-09%20150524.png)
 Admin Dashbord pannel:  <br>
+<br>
 ![image alt](https://github.com/Rajiv-mandal04/LM_system/blob/main/Screenshot%202025-12-14%20220731.png)
 ![image alt](https://github.com/Rajiv-mandal04/LM_system/blob/main/Screenshot%202025-12-14%20220716.png)
 ![image alt](https://github.com/Rajiv-mandal04/LM_system/blob/main/Screenshot%202025-12-14%20220635.png)
